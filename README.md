@@ -1,12 +1,17 @@
-### Olá! Eu sou o Lucas Araujo👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffcd00&height=120&section=header)
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=200&color=b89504&random=false&width=435&lines=Bem+vindo!!!;Eu+me+chamo+Lucas+:%29)](https://git.io/typing-svg)
+
+</div>
+
 ##
 
-- 🌱 estudando python
-- 🤔 atualmente em busca do primeiro estagio
-- 📫 linkedin: https://www.linkedin.com/in/lucas-araujo2032/
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-araujo20&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-araujo20&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">  
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucas-araujo20&show_icons=true&count_private=true&hide_border=true&title_color=ffcd00&icon_color=ffcd00&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Araujo" /> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-araujo20&layout=compact&hide_border=true&title_color=ffcd00&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
 <div style="display:inline_block"><br>
 <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -24,3 +29,4 @@
   <a href="mailto:ls.araujo2032@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffcd00&height=120&section=footer)

@@ -24,4 +24,3 @@
   <a href="mailto:ls.araujo2032@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-![snake gif](https://github.com/lucas-araujo20/lucas-araujo20/blob/output/github-contribution-grid-snake.svg)

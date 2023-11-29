@@ -1,4 +1,5 @@
 ### Olá! Eu sou o Lucas Araujo👋
+##
 
 - 🌱 estudando python
 - 🤔 atualmente em busca do primeiro estagio
@@ -16,7 +17,7 @@
 <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />      
 </div>
 
-<br>
+##
 
 <div>
   <a href="https://www.linkedin.com/in/lucas-araujo2032/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
